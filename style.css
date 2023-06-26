@@ -1,0 +1,26 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 200px;
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+}
+h1{
+    font-size: 42px;
+    text-align: center;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5px;
+}
+#number{
+    padding: 3px 24px;
+}
+#button{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    margin: 12px 0px;
+    padding: 3px 34px;
+}
